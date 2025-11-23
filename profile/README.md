@@ -1,5 +1,3 @@
-# watermelonKode 🍉
-
 Welcome to **watermelonKode 🍉**, where we craft innovative and inspiring mobile apps with a focus on Kotlin Multiplatform (KMP) and modern mobile development. Our mission is to share knowledge, tools, and insights from real-world app engineering.
 
 Here’s what we do:
