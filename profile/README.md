@@ -1,32 +1,14 @@
-<img width="2850" height="294" alt="Frame 46" src="https://github.com/user-attachments/assets/2ba16fe2-9c13-45a9-b725-c87e63dfcfe5" />
+Welcome to **watermelonKode** 🍉 — Kotlin Multiplatform development.
 
-Welcome to **watermelonKode** 🍉, where we craft innovative and inspiring mobile apps with a focus on Kotlin Multiplatform (KMP) and modern mobile development. Our mission is to share knowledge, tools, and insights from real-world app engineering.
+🚀 We build and share:
+- **KMP / Compose Multiplatform** projects
+- **Clean Architecture** and code quality patterns
+- **Open-source** modules, templates, and sample apps
+- Practical engineering notes & guides (**Medium**)
 
-Here’s what we do:
+🤝 Your support helps us build and maintain open-source KMP projects & libraries:
+- **Support ☕️**: https://buymeacoffee.com/watermelonkode  
 
-1. **Kotlin Multiplatform (KMP) Development 📲**  
-   We build cross-platform mobile apps using KMP, allowing shared code across Android and iOS while maintaining native performance.
 
-2. **Compose Multiplatform (CMP) Development 🎨**  
-   Our apps use Compose Multiplatform for building beautiful, responsive, and modern user interfaces across platforms.
-
-3. **Clean Architecture & Code Quality 🏗️**  
-   We follow best practices in architecture, design patterns, and clean code to ensure maintainable and scalable applications.
-
-4. **Practical Engineering Insights ⚙️**  
-   We share technical lessons, experiments, and optimizations from our real projects to help developers solve common challenges efficiently.
-
-5. **Open Source Repositories 🔓**  
-   Explore our GitHub repositories featuring reusable KMP modules, sample apps, and libraries to accelerate your own projects.
-
-6. **Articles & Case Studies 📝**  
-   Our [Medium 🍉](https://linktr.ee/watermelonKode) articles provide detailed guides, app walkthroughs, research findings, and case studies from real development scenarios.
-
-7. **Community & Learning 🌱**  
-   We aim to build a community of mobile developers interested in Kotlin Multiplatform, sharing knowledge, and collaborating on innovative projects.
-
----
-
-Stay tuned and follow **watermelonKode 🍉** for more insights on Kotlin Multiplatform, mobile architecture, and engineering best practices! 🚀  
-
-All links, including Medium, GitHub, WhatsApp and socials, are available here: [Linktree 🍉](https://linktr.ee/watermelonKode)
+🔗 All links (Medium, X, Instagram, WhatsApp, more): 
+- **Linktree 🍉** https://linktr.ee/watermelonKode
