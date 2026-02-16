@@ -1,6 +1,6 @@
-<img width="2512" height="134" alt="Frame 59" src="https://github.com/user-attachments/assets/5cc5df04-9726-44bf-b063-436084097dbc" /><br>
+<img width="1975" height="120" alt="github-banner" src="https://github.com/user-attachments/assets/81f2ffe5-9d9c-4049-b7bd-1b7bf8175056" /><br>
 
-Welcome to **watermelonKode** 🍉 — Kotlin Multiplatform development.
+Welcome to **watermelonKode** 🍉 — Kotlin Multiplatform development 🪄
 
 🚀 We build and share:
 - **KMP / Compose Multiplatform** projects
