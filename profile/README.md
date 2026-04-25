@@ -1,5 +1,4 @@
-<img width="1975" height="120" alt="github-banner" src="https://github.com/user-attachments/assets/81f2ffe5-9d9c-4049-b7bd-1b7bf8175056" /><br>
-
+<img width="1975" height="120" alt="Group 40" src="https://github.com/user-attachments/assets/6469403f-5994-4c78-8fb9-06f8c92003e1" /><br>
 Welcome to **watermelonKode** 🍉 — Kotlin Multiplatform development 🪄
 
 🚀 We build and share:
