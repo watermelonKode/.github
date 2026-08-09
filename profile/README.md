@@ -18,8 +18,8 @@ An independent studio building tools to help people learn, improve, and achieve 
 
 ### 🪄 What we open-source here
 
-- **Kotlin Multiplatform & Compose Multiplatform** projects and sample apps
-- Clean Architecture patterns, templates, and reusable modules
+- **Kotlin Multiplatform & Compose Multiplatform** projects and sample apps.
+- Clean Architecture patterns, templates, and reusable modules.
 - Practical engineering write-ups on [Kotlin Multiplatform Notes](https://blog.watermelonkode.com) and community contributions welcome.
 
 We build these because we use them ourselves in VocabKit 📖. So, everything here is code we actually run in production, not demo-ware.
